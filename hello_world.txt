@@ -1,0 +1,5 @@
+Hiii... I am here to tell you something about my The Odin Project journey.
+This journey has been very interesting so far.
+I think I will be good at this project.
+
+Right now, I am learning about the git using the Terminal of Ubuntu OS.
